@@ -1,4 +1,4 @@
 Title: Damilare Babatunde
 #logo: assets/img/headshot_circle.png
 #show_downloads:true
-theme: Jekyll-theme-minimal
+theme: pages-themes/architect@v0.2.0
